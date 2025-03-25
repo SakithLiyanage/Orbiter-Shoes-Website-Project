@@ -72,4 +72,4 @@ Key Features:
 
     Dedicated mobile app (optional) for even easier browsing and purchasing.
 
-    ![Screenshot 2025-03-25 194037](https://github.com/user-attachments/assets/c10460c8-68c1-4540-95c7-5525b57e14e0)
+![Screenshot 2025-03-25 194037](https://github.com/user-attachments/assets/c10460c8-68c1-4540-95c7-5525b57e14e0)
